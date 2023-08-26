@@ -1,0 +1,57 @@
+C:\Users\Pato\Mis documentos\Visual Studio 2010\Projects\SSP Selector\bin\Release\Scoreboard  Selector WE9.exe
+C:\Users\Pato\Mis documentos\Visual Studio 2010\Projects\SSP Selector\bin\Release\Scoreboard  Selector WE9.pdb
+C:\Users\Pato\Mis documentos\Visual Studio 2010\Projects\SSP Selector\bin\Release\Scoreboard  Selector WE9.xml
+C:\Users\Pato\Mis documentos\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Pato\Mis documentos\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\SSP_Selector.Form1.resources
+C:\Users\Pato\Mis documentos\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\SSP_Selector.Resources.resources
+C:\Users\Pato\Mis documentos\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Pato\Mis documentos\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Pato\Mis documentos\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\Scoreboard  Selector WE9.exe
+C:\Users\Pato\Mis documentos\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\Scoreboard  Selector WE9.xml
+C:\Users\Pato\Mis documentos\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\Scoreboard  Selector WE9.pdb
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\bin\Release\Scoreboard  Selector WE9.exe.config
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\bin\Release\Scoreboard  Selector WE9.exe
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\bin\Release\Scoreboard  Selector WE9.pdb
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\bin\Release\Scoreboard  Selector WE9.xml
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\SSP_Selector.Form1.resources
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\SSP_Selector.Resources.resources
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\Scoreboard  Selector WE9.exe
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\Scoreboard  Selector WE9.xml
+D:\Users\Lucas\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\Scoreboard  Selector WE9.pdb
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\SSP_Selector.Form1.resources
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\SSP_Selector.Resources.resources
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector\bin\Release\SSP Scoreboard  Selector.exe.config
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector\bin\Release\SSP Scoreboard  Selector.exe
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector\bin\Release\SSP Scoreboard  Selector.pdb
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector\bin\Release\SSP Scoreboard  Selector.xml
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\SSP Scoreboard  Selector.exe
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\SSP Scoreboard  Selector.xml
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\SSP Scoreboard  Selector.pdb
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector\obj\x86\Release\SSP Selector.vbproj.GenerateResource.Cache
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector - V2\bin\Release\SSP Scoreboard  Selector.exe.config
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector - V2\obj\x86\Release\SSP Scoreboard  Selector.exe
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector - V2\obj\x86\Release\SSP Scoreboard  Selector.xml
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector - V2\obj\x86\Release\SSP Scoreboard  Selector.pdb
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector - V2\bin\Release\SSP Scoreboard  Selector.exe
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector - V2\bin\Release\SSP Scoreboard  Selector.pdb
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector - V2\bin\Release\SSP Scoreboard  Selector.xml
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector - V2\obj\x86\Release\SSP_Selector.Form1.resources
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector - V2\obj\x86\Release\SSP_Selector.Resources.resources
+C:\Users\P\Documents\Visual Studio 2010\Projects\SSP Selector - V2\obj\x86\Release\SSP Selector.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PROYECTOS\SSP Selector - V2\bin\Release\SSP Scoreboard  Selector.exe.config
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PROYECTOS\SSP Selector - V2\obj\x86\Release\SSP Scoreboard  Selector.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PROYECTOS\SSP Selector - V2\obj\x86\Release\SSP Scoreboard  Selector.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\PROYECTOS\SSP Selector - V2\obj\x86\Release\SSP Scoreboard  Selector.pdb
+G:\BACKUB\Documentos\SSP Selector - V2\obj\x86\Release\SSP_Selector.Form1.resources
+G:\BACKUB\Documentos\SSP Selector - V2\obj\x86\Release\SSP_Selector.Resources.resources
+G:\BACKUB\Documentos\SSP Selector - V2\obj\x86\Release\SSP Selector.vbproj.GenerateResource.Cache
+G:\BACKUB\Documentos\SSP Selector - V2\bin\Release\Scoreboard  Selector.exe.config
+G:\BACKUB\Documentos\SSP Selector - V2\bin\Release\Scoreboard  Selector.exe
+G:\BACKUB\Documentos\SSP Selector - V2\bin\Release\Scoreboard  Selector.pdb
+G:\BACKUB\Documentos\SSP Selector - V2\bin\Release\Scoreboard  Selector.xml
+G:\BACKUB\Documentos\SSP Selector - V2\obj\x86\Release\Scoreboard  Selector.exe
+G:\BACKUB\Documentos\SSP Selector - V2\obj\x86\Release\Scoreboard  Selector.xml
+G:\BACKUB\Documentos\SSP Selector - V2\obj\x86\Release\Scoreboard  Selector.pdb

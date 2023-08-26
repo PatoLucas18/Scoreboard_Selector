@@ -1,0 +1,33 @@
+Autoselector PES Retro
+
+# Carpetas Organizadas por slot, el modo online puede tener su propio marcador tambien!
+# Casi todos los slot contiene una carpeta a donde incluyen los graficos para el modo Exhibicion y en la otra para el modo Liga o Copa...
+
+
+Nuevo: 13 archivos
+
+x_text.afs:
+enter.txs -> unnamed_5.bin - Texturas Escenas de entrada
+formation.txs -> unnamed_128.bin - Texturas formacion  #
+scoreboard.txs -> unnamed_151.bin - Texturas Marcadores y placas de juego
+screen.txs -> unnamed_152.bin - Textura Pantalla de carga
+result.txs  -> unnamed_157.bin - Textura medio tiempo y final
+
+0_text.afs:
+champions.opd -> unknow_00212_226.opd - Coordenadas placa de campéon
+enter.opd -> unknow_00255_305.opd - Coordenadas Escenas de entrada
+teamnames.flg -> unknow_00535.flg - Teamnames
+emblems.flg -> unknow_00536.flg - emblemas  #
+game2d.opd -> unknow_00570_585.opd - Coordenadas placas de juego
+scoreboard.bin -> unnamed_593_608.bin - Coordenadas scoreboard
+schedule.opd -> unknow_00679.opd - Programa de Partidos
+
+Board_Referee.str  -> unnamed_83.bin - Tablero de Arbitro (cambios)
+
+0_sound.afs:
+Sound_enter_1.adx -> unknow_00045.adx - Himno de entrada
+Sound_enter_2.adx -> unknow_00046.adx - Himno de entrada?
+Sound_Lineup1.adx -> unknow_00068.adx - Alineaciones
+Sound_Lineup2.adx -> unknow_00069.adx - Alineaciones partido importante
+Sound_Menu.adx -> unknow_00063.adx - tack de Menú de copas y ligas 
+
